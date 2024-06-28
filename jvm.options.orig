@@ -12,9 +12,9 @@ public class HelloWorld
 public static void main(String[] args) {
 =======
 {  ###Edit from DevB Branch###
-
-
-
-
-
+	public static void main(String[] args) {
+>>>>>>> DevB
+		System.out.println("Hello World!");
+	}
+}
 
